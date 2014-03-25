@@ -1,6 +1,6 @@
 # Fixtures for sails
 
-JSON fixtures. Data are automatically loaded and checked every time you lift your sails.
+JSON fixtures. Data are automatically loaded and checked every time you lift your sails (if you use bootstrap from examples). Suggestions and pull requests are welcome.
 
 ## Howto
 
