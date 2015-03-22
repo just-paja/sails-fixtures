@@ -1,6 +1,6 @@
 {
 	"name":"sails-fixtures",
-	"version":"0.1.5",
+	"version":"1.0.7",
 	"license":"GPLv3",
 	"description":"Easy to use fixtures for sails",
 	"author":"just-paja <just-paja@gmail.com>",
