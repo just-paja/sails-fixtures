@@ -1,20 +1,23 @@
 {
-	"name":"sails-fixtures",
-	"version":"1.0.8",
-	"license":"GPL-3.0",
-	"description":"Easy to use fixtures for sails",
-	"author":"just-paja <just-paja@gmail.com>",
-	"main":"./lib/index.js",
-	"dependencies":{
-		"node.extend":"*",
-		"async":"*",
-		"glob":"*"
+	"name": "sails-fixtures",
+	"version": "2.0.0",
+	"license": "MIT",
+	"description": "Easy to use fixtures for sails",
+	"author": "just-paja <just-paja@gmail.com>",
+	"main": "./lib/index.js",
+	"dependencies": {
+		"node.extend": "*",
+		"async": "*",
+		"glob": "*"
 	},
-	"scripts":{
-		"test":"echo Running tests... && mocha --globals testRule"
+	"scripts": {
+		"test": "echo Running tests... && mocha --globals testRule"
 	},
-	"repository":{
-		"type":"git",
-		"url":"https://github.com/proboston/sails-fixtures.git"
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/proboston/sails-fixtures.git"
+	},
+	"devDependencies": {
+		"prettier": "^1.13.5"
 	}
 }
